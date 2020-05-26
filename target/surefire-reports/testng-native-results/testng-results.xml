@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="36" started-at="2020-05-24T18:15:18Z" finished-at="2020-05-24T18:15:18Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="36" started-at="2020-05-24T18:15:18Z" finished-at="2020-05-24T18:15:18Z">
+      <class name="smartbytes.aswini.testcases.CalculatorTest">
+        <test-method status="PASS" signature="test_multiply()[pri:0, instance:smartbytes.aswini.testcases.CalculatorTest@60addb54]" name="test_multiply" duration-ms="7" started-at="2020-05-24T18:15:18Z" finished-at="2020-05-24T18:15:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_multiply -->
+        <test-method status="PASS" signature="test_subtract()[pri:0, instance:smartbytes.aswini.testcases.CalculatorTest@60addb54]" name="test_subtract" duration-ms="1" started-at="2020-05-24T18:15:18Z" finished-at="2020-05-24T18:15:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_subtract -->
+      </class> <!-- smartbytes.aswini.testcases.CalculatorTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

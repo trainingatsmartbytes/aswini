@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="3063" started-at="2020-05-24T18:15:28Z" finished-at="2020-05-24T18:15:31Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="3063" started-at="2020-05-24T18:15:28Z" finished-at="2020-05-24T18:15:31Z">
+      <class name="smartbytes.aswini.TestProductAPI">
+        <test-method status="PASS" signature="test_create_product()" name="test_create_product" duration-ms="3020" started-at="2020-05-24T18:15:28Z" finished-at="2020-05-24T18:15:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_create_product -->
+      </class> <!-- smartbytes.aswini.TestProductAPI -->
+      <class name="smartbytes.aswini.testcases.AuthenticationServiceTest">
+        <test-method status="PASS" signature="test_login_with_valid_credentials()" name="test_login_with_valid_credentials" duration-ms="1" started-at="2020-05-24T18:15:31Z" finished-at="2020-05-24T18:15:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_with_valid_credentials -->
+        <test-method status="PASS" signature="test_login_with_invalid_credentials()" name="test_login_with_invalid_credentials" duration-ms="0" started-at="2020-05-24T18:15:31Z" finished-at="2020-05-24T18:15:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_with_invalid_credentials -->
+      </class> <!-- smartbytes.aswini.testcases.AuthenticationServiceTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

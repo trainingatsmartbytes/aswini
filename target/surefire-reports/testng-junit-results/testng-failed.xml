@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]" junit="true">
+  <test thread-count="5" verbose="0" name="Command line test(failed)" junit="true">
+    <classes>
+      <class name="org.junit.runner.Description">
+        <methods>
+          <include name="test_login_with_invalid_credentials"/>
+          <include name="test_login_with_valid_credentials"/>
+        </methods>
+      </class> <!-- org.junit.runner.Description -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
